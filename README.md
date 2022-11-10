@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nicholas Marshall
+- 💻 I work with Microsoft On-Premises and Cloud technologies
+- 📫 Get in touch by mail eu@nicholasmm.com.br
